@@ -10,8 +10,10 @@
 }
 ```
 
-
 # Datasets:
 **News**: Unfortunately, those data are not ours to share, but we are sharing here dataset which contains links of the news articles that we used. You can download those articles and replace URL with the article text to repeat the experiments.
 
-**Twitter**: Unfortunately, those data are not ours to share, but we are sharing here dataset which contains links of the tweets that we used. You can use Twitter API to download those tweets.
+**Twitter**: Unfortunately, those data are not ours to share, but we are sharing here https://drive.google.com/file/d/13UVJK0ejtcA78bHbz7zV6oE1zJlAKQAU/view?usp=sharing dataset which contains IDs of the tweets that we used (second column). You can use Twitter API to download those tweets. Data were extracted using timeframe and hashtags described in a paper.
+
+# Code notes:
+This is the main part of the code. Code used to download and transform twitter datasets, we can't share due to Twitter policy.
